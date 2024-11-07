@@ -20,10 +20,6 @@
 ## 💡 My Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamyzm&layout=compact&langs_count=10&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lamyzm&theme=default&hide_border=true)
-
----
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lamyzm&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lamyzm&theme=default&hide_border=true)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Lamyzm&theme=default)
+
