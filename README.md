@@ -15,9 +15,12 @@
 ---
 
 ## 🙋‍♂️ Contact me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajvls98@gmail.com)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://little-gazelle-9ac.notion.site/)
+
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://www.lamyzm.duckdns.org/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://little-gazelle-9ac.notion.site/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajvls98@gmail.com)
+
+
 
 ---
 
