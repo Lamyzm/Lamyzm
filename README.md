@@ -1,10 +1,10 @@
-<div align="center">
-
 **FrontEnd developer**
 
 🔍 **새로운 기술을 배우고 탐구하는 데 주저함이 없는 개발자**  
-   - 기술과 도구를 배우는 것에 열정을 가지고, 더 나은 결과를 위해 다양한 시도를 즐깁니다.
+- 기술과 도구를 배우는 것에 열정을 가지고, 더 나은 결과를 위해 다양한 시도를 즐깁니다.
 ---
+
+<div align="center">
 
 ## 🛠️ Tech Stacks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,6 +26,5 @@
 
 ## 💡 My Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamyzm&layout=compact&langs_count=15&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lamyzm&theme=default&hide_border=true)
-
+![Overview](https://raw.githubusercontent.com/Lamyzm/github-stats-transparent/refs/heads/output/generated/overview.svg)
 </div>
